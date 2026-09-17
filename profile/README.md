@@ -1,33 +1,38 @@
 # Deviosh
 
-**AI-powered mobile app development for founders and small teams.**
+**Founder-led product studio.** We design, build, and ship native iOS and Android apps — our own products, from first sketch to a live store listing.
 
-Deviosh designs, builds, and publishes custom iOS and Android apps with AI integrated throughout the product pipeline. We help turn focused ideas into polished, store-ready mobile products without the timeline or cost structure of a traditional agency.
+Deviosh is a small software product organization. The work is product craft: native code, a coherent brand in the interface, and apps people can open today.
 
-## What We Build
+[deviosh.com](https://www.deviosh.com) · [hello@deviosh.com](mailto:hello@deviosh.com)
 
-- **Mobile MVPs**: scoped, designed, and shipped for iOS and Android.
-- **App Modernization**: refreshed UX, cleaner code, faster screens, and stronger release paths.
-- **In-App AI Features**: chat, summarization, search, automations, and practical AI workflows.
-- **Launch Support**: App Store and Play submission, store assets, release copy, and review support.
+## Featured product
 
-## How We Work
+### PFRA Tracker (iOS)
 
-Deviosh keeps the process direct and practical:
+A 100-point performance tracker for cardio, strength, core, and body composition. Enter results, see pass/fail by component, and keep history on device. **Live on the App Store.**
 
-1. Scope the first useful version.
+- **App Store:** [PFRA Tracker](https://apps.apple.com/us/app/pfra-tracker/id6762722077)
+- **Product page:** [deviosh.com/apps/pfra-tracker](https://www.deviosh.com/apps/pfra-tracker)
+- **Privacy & support:** [Privacy policy](https://devioshdev.github.io/PFRATracker/PrivacyPolicy.html) (GitHub Pages compliance host)
+
+PFRA Tracker is an independent Deviosh product. It is not affiliated with, endorsed by, or connected to the United States Air Force or the Department of Defense.
+
+## How we build
+
+1. Shape the first useful version.
 2. Design the core experience.
-3. Build, test, and iterate with AI-assisted engineering.
-4. Publish with store-ready polish.
+3. Build, test, and iterate.
+4. Ship with store-ready polish.
 
-Typical projects move from idea to launch in weeks, with fixed scope, clear communication, and direct technical ownership.
+AI is a productivity tool in the studio — useful for exploring layouts, drafting code, and moving faster. The founder owns architecture, quality assurance, and release. AI-assisted work is reviewed, tested, and hardened before anything ships.
 
-## Public Projects
+## This organization
 
-This organization contains public sites, policy pages, and supporting repositories for Deviosh products and client-facing work. Production app source may remain private when appropriate.
+Public repositories here hold marketing, App Store compliance pages, and other supporting material for Deviosh products. Production app source may remain private.
 
 ## Contact
 
-- Website: [deviosh.com](https://www.deviosh.com)
+- Website: [www.deviosh.com](https://www.deviosh.com)
 - Email: [hello@deviosh.com](mailto:hello@deviosh.com)
-- Support: [hello@deviosh.com](mailto:hello@deviosh.com?subject=Deviosh%20support)
+- Support: [hello@deviosh.com](mailto:hello@deviosh.com)
